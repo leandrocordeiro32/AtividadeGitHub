@@ -1,3 +1,5 @@
+"o arquivo foi criado vazio - 1 commit"
+"informação incluida no arquivo - 2 commit"
 git init
 git add README.md
 git commit -m "first commit"
